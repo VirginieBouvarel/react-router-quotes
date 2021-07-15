@@ -1,6 +1,7 @@
 # Perso
 
 cache/
+build/
 .vscode/ 
 node_modules/
 
@@ -12,6 +13,7 @@ node_modules/
 *.sketch
 *.xd
 *.fig
+
 
 
 
